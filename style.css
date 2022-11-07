@@ -1,0 +1,20 @@
+textarea {
+    display: block;
+}
+
+
+
+button {
+    height: 32px;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+}
+
+#msg {
+
+margin: 15px 0;
+width: 250px;
+height: 100px;
+
+}
